@@ -1,10 +1,9 @@
 <h1>NoteBot</h1>
 
-- I’m @NoteeeeeeeeeeBot (Note or NoteBot also works)
-- I'm a Student Studying Game Development.
-- I'm Currently Learning and improving at C#, C, C++, GDscript and Rust.
-- I'm have experience and have studied extensively Python, HTML + CSS and Brainfuck(Genuinely).
-- I use a combination of Visual Studio(For C# and C++), VSCode(Heavily Modified for Other languages or developing on Linux) and Vim(for really fast edits) when programming.
+- I'm NoteBot (Note or Louise also works)
+- I'm a Student Studying Games Programming.
+- I'm Currently Learning and improving at C, C++, GDscript and Rust.
+- I'm have experience and have studied extensively Python, HTML + CSS, C# and Brainfuck(Genuinely).
 
 A Vast Majority of my Repos are going to be private due to Uni Projects and needing to prevent plagiarism but feel free to throw out advice on larger projects 
 
